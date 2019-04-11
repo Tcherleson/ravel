@@ -1,0 +1,44 @@
+html {
+  font-size: 10px;
+
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: white;
+  font-family: ArialBlack, Arial;
+}
+p, li {
+  font-size: 16px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: white;
+  font-family: Tahoma;
+
+}
+a {
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: red;
+
+}
+.container {
+  width: 650px;
+  margin: 50px auto;
+  background-color: black;
+  padding: 20px;
+}
+.emoji {
+  display: block;
+  margin: 0 auto;
+  width: 128px;
+  height:128px;
+}
+.ifma {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height:60px;
+}
